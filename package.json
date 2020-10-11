@@ -1,0 +1,23 @@
+{
+  "name": "trainerdex",
+  "version": "0.1.0",
+  "description": "JavaScript library to interact with the TrainerDex API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrainerDex/TrainerDex.js.git"
+  },
+  "keywords": [
+    "TrainerDex",
+    "API"
+  ],
+  "author": "TurnrDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrainerDex/TrainerDex.js/issues"
+  },
+  "homepage": "https://github.com/TrainerDex/TrainerDex.js#readme"
+}
